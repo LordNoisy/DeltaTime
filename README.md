@@ -1,4 +1,13 @@
-# Fabric Example Mod
+# DeltaTime Minecraft Mod
+
+This mod aims to seperate certain functions from TPS, instead opting for them to use a delta time approach.
+
+## Features
+
+FINISHED:
+
+WIP:
+- Eating is seperated from DeltaTime 
 
 ## Setup
 
