@@ -1,13 +1,16 @@
 # DeltaTime Minecraft Mod
 
-This mod aims to seperate certain functions from TPS, instead opting for them to use a delta time approach.
+This mod aims to separate certain functions from TPS, instead opting for them to use a delta time approach.
 
 ## Features
 
 FINISHED:
 
-WIP:
-- Eating is seperated from DeltaTime 
+PLANNED:
+- Separate Eating
+- Separate XP Pickup
+- Separate Item Pickup
+- More as I think of them :)
 
 ## Setup
 
